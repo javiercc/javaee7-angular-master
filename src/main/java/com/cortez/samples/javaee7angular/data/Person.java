@@ -43,7 +43,7 @@ public class Person {
     public void setDescription(String description) {
         this.description = description;
     }
-    //prueba git
+    //segunda prueba git
     public String getImageUrl() {
         return imageUrl;
     }
